@@ -13,7 +13,7 @@ The Seamoss Project is focused on building Seamoss Online, a horticulture optimi
 
 <a href="https://seamossonline.github.io/seamoss-overview.md">How It Works</a>
 
-<h2> Main Fatures </h2>
+<h2> Main Features </h2>
 
 <ul>
   <li>Farm virtualization, planning and calendaring</li>

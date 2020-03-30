@@ -1,5 +1,6 @@
 <h1>The Seamoss Project</h1>
-```markdown 
+
+```markdown
 Developed by user unknown in Los Angeles CA
 
 -[How It Works](seamoss-overview.md)

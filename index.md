@@ -11,7 +11,7 @@ Developed by user unknown in Los Angeles CA
 
 The Seamoss Project is focused on building Seamoss Online, a horticulture optimization and management tool with AI and IOT capabilities. 
 
-<a href="overview.html">How It Works</a>
+<a href="what-is-seamoss.md">How It Works</a>
 
 <h2> Main Features </h2>
 

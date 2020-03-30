@@ -3,7 +3,7 @@
 ```markdown
 Developed by user unknown in Los Angeles CA
 
--[How It Works](seamoss-overview.md)
+-[seamoss-overview.md](How It Works)
 ```
 
 <h2> What Is Seamoss Online?</h2>

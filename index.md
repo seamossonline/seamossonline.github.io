@@ -1,19 +1,22 @@
+<h1>The Seamoss Project</h1>
 ```markdown 
-# The Seamoss Project
 Developed by user unknown in Los Angeles CA
 
-## What Is Seamoss Online?
+-[How It Works](seamoss-overview.md)
+```
+
+<h2> What Is Seamoss Online?</h2>
 
 The Seamoss Project is focused on building Seamoss Online, a horticulture optimization and management tool with AI and IOT capabilities. 
 
--[How It Works](seamoss-overview.md)
-
-### Main Fatures
-
-- Farm virtualization, planning and calendaring
-- IOT sensor data and aggregate cloud analysis
-- Environment alerts and IOT triggers
-- Controlled environment for breeding and testing
 
 
-```
+<h2> Main Fatures </h2>
+
+<ul>
+  <li>Farm virtualization, planning and calendaring</li>
+<li>IOT sensor data and aggregate cloud analysis</li>
+<li>Environment alerts and IOT triggers</li>
+<li>Controlled environment for breeding and testing</li>
+  </ul>
+

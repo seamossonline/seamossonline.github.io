@@ -3,7 +3,8 @@
 ```markdown
 Developed by user unknown in Los Angeles CA
 
--[seamoss-overview.md](How It Works)
+@seamossproject on Instagram
+
 ```
 
 <h2> What Is Seamoss Online?</h2>
